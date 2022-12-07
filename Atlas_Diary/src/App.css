@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+.navbar {
+  background-color: cornflowerblue;
+}
+
+.logo-img {
+  height: 30px;
+  width: 30px;
+  cursor: pointer;
+}
