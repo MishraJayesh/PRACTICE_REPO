@@ -11,7 +11,7 @@ function Header() {
                     <Navbar.Brand href="#home">Atlas_Diary</Navbar.Brand>
                     <Nav className="me-auto">
                         <Nav.Link href="#home">Home</Nav.Link>
-                        <Nav.Link href="#features">About</Nav.Link>
+                        <Nav.Link href="#about">About</Nav.Link>
                         <Nav.Link href="#pricing">Packages</Nav.Link>
                         <Nav.Link href="#contact">Contact</Nav.Link>
                     </Nav>
