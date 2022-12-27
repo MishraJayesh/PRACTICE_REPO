@@ -1,0 +1,10 @@
+.display-4 {
+  text-align: center;
+}
+.footer {
+  background-color: #e9ecef;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTefCAB88YyLoZ7eq7mYQGiazKq_Y44rB6w9DCa5TfdNzQfqA6drQxXzbH_uzoSMGKoRQ0&usqp=CAU");
+  border-radius: 1rem;
+  margin-bottom: 2rem;
+  height: 165px;
+}
