@@ -1,0 +1,9 @@
+.brand-logo {
+  height: 30px;
+  width: 30px;
+}
+p {
+  margin-top: -30px;
+  margin-bottom: 0.2rem;
+  margin-left: 32px;
+}

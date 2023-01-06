@@ -1,0 +1,17 @@
+.header {
+  background-color: #e6e9ec;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTQKSrZP7UZskRi0LwgmOYWYm_n_EjMce_pmkDXKqTzKLhqZBFqckG_nUELhX1550ZveM&usqp=CAU");
+  border-radius: 1.3rem;
+  margin-bottom: 1rem;
+}
+.display {
+  font-size: 15px;
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+}
+.display-9 {
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+  font-size: 35px;
+  margin-bottom: 0.1rem;
+}

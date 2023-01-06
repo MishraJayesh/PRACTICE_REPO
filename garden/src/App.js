@@ -1,7 +1,9 @@
-import Navbar from './components/Navbar';
-import Header from './components/Header';
-import Cards from './components/Cards';
-import Footer from './components/Footer';
+import Navbar from './components/Navbar/Navbar';
+import Header from './components/Header/Header';
+import Cards from './components/Cards/Cards';
+import Footer from './components/Footer/Footer';
+// import Contact from './components/Contact/Contact';
+// import About from './components/About/About';
 
 import './App.css';
 
@@ -12,6 +14,8 @@ function App() {
       <div className="App">
         <Header />
         <Cards />
+        {/* <About /> */}
+        {/* <Contact /> */}
       </div>
       <Footer />
     </>
