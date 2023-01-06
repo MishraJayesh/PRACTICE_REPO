@@ -3,9 +3,11 @@ import './Home.css';
 
 const Home = () => {
     return (
-        <div>
-            <h1>This Is The Home Page</h1>
-        </div>
+        <>
+            <div className='container mt-4'>
+                <h4>This Is The Home Page</h4>
+            </div>
+        </>
     )
 }
 
