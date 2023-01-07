@@ -4,7 +4,7 @@ import './Footer.css';
 const Footer = () => {
     return (
         <div>
-            <div className="container">
+            <div className="footer bg-info fixed-bottom text-center">
                 <h4>I AM FOOTER</h4>
             </div>
         </div>
